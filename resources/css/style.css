@@ -106,8 +106,7 @@ a {
   padding: 2rem 0;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 9rem;
+  max-height: 9rem;
 
 }
 
